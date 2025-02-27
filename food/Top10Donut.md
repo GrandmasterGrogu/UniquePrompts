@@ -4,6 +4,13 @@ Grok 3, DeepThink.
 **Prompt**  
 Compile a report indicating the 10 most unique and interesting donuts or pastries throughout the United States. No mainstream favorites.
 
+---
+
+**Response**  
+
+---
+
+
 **Key Points**
 
 * Research suggests the 10 most unique and interesting donuts or pastries in the US, excluding mainstream favorites, include a mix of creative flavors and shapes from local bakeries.  
